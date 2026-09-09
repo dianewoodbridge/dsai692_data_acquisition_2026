@@ -1,1 +1,1 @@
-# Merge feature/search to main and check its log graph.
+# Merge feature/search to feature/rag and check its log graph.
