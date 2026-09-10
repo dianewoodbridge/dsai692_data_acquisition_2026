@@ -19,3 +19,4 @@ def sync_call():
 @app.get("/async")
 async def async_call():
     # TODO: COMPLETE THIS TO BE AN ASYNC VERSION OF sync_call()
+
